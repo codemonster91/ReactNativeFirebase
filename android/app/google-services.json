@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "581429059892",
+    "firebase_url": "https://authtest-3b36a.firebaseio.com",
+    "project_id": "authtest-3b36a",
+    "storage_bucket": "authtest-3b36a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581429059892:android:94b80593e837a992cb8561",
+        "android_client_info": {
+          "package_name": "com.reduxdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581429059892-125mi3o1h86p0vhpspa3stel39l68lqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8MmdjawN9viuP0nfrA39o_QylRKS5hr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581429059892-125mi3o1h86p0vhpspa3stel39l68lqj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581429059892-iv51e6ltvch2o2p0droe4f6jgu0bhka4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ReduxDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
